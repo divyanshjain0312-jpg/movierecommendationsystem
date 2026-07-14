@@ -8,11 +8,6 @@ Our Movie Recommender System, built using Python and Natural Language Processing
 
 
 
-**Check All Movies Page:** Navigate between pages with ease using buttons or the slider.
-
-
-![Sample Image 5](https://github.com/AnupamMittal-21/Movie-Recommender-System/assets/96871662/02473070-91cf-45a0-8016-eee8b70ee2ae)
-
 ## Installation Guide
 
 Follow these steps to set up and run the application:
